@@ -1,0 +1,271 @@
+markers = [
+
+   {
+     "name": "Stockholm",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-", 
+     "url": "http://bahai.se/stockholm",
+     "lat":  59.3251172,
+     "lng":  18.0710935
+   },
+   {
+     "name": "Göteborg",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-", 
+     "url": "http://bahai.se",
+     "lat": 57.7072326,
+     "lng": 11.9670171
+   },
+   {
+     "name": "Malmö",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-", 
+     "url": "http://bahai.se",
+     "lat": 55.6052931,
+     "lng": 13.0001566	 
+   },
+   {
+     "name": "Eskilstuna",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-", 
+     "url": "http://bahai.se",
+     "lat": 59.3717379,
+     "lng": 16.5051474
+   },
+   {
+     "name": "Falkenberg",
+	 "status": "Grupp",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat":  56.9045601, 
+     "lng": 12.4918854
+   },
+   {
+     "name": "Gävle",
+	 "status": "Grupp",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 60.6750132, 
+     "lng": 17.1467019
+   },
+   {
+     "name": "Gotland",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat":  57.6379361, 
+     "lng": 18.2979820
+   },
+   {
+     "name": "Huddinge",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",	 
+     "url": "http://bahai.se",
+     "lat":  59.2293827, 
+     "lng":  17.9748815
+   },
+      {
+     "name": "Jokkmokk",
+	 "status": "Grupp",
+	 "bildat": "-",
+	 "medlemmar": "-",	 
+     "url": "http://bahai.se",
+     "lat":   66.6058539, 
+     "lng":  19.8379317
+   },
+   
+   
+   {
+     "name": "Järfälla",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.4204736, 
+     "lng": 17.8285472
+   },
+   {
+     "name": "Karlstad",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.3799132, 
+     "lng": 13.5029480
+   },
+   
+      {
+     "name": "Kiruna",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 67.8550724, 
+     "lng":  20.2255482
+   },
+   
+   
+   {
+     "name": "Linköping",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat":  58.4098135, 
+     "lng": 15.6245252
+   },
+   {
+     "name": "Lund",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 55.6817,
+     "lng": 13.2790
+   },
+   {
+     "name": "Nacka",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.3099477, 
+     "lng": 18.1677049
+   },
+      {
+     "name": "Nässjö",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 57.6530377, 
+     "lng": 14.6981554
+   },
+      {
+     "name": "Norrköping",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 58.5909124, 
+     "lng": 16.1903511
+   },
+      {
+     "name": "Partille",
+	 "status": "Grupp",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 57.7394310, 
+     "lng": 12.1065384
+   },
+      {
+     "name": "Salem",
+	 "status": "Grupp",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.2018838, 
+     "lng": 17.7646761
+   },
+      {
+     "name": "Sigtuna",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.6165201, 
+     "lng": 17.7236301
+   },
+      {
+     "name": "Solna",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.3613670, 
+     "lng": 18.0013693
+   },
+   {
+     "name": "Sollentuna",
+	 "status": "Andligt råd",
+	 "bildat": "1994",
+	 "medlemmar": "20", 
+     "url":  "http://bahaisollentuna.se",
+     "lat":  59.4282762,
+     "lng":  17.9485219
+   },
+      {
+     "name": "Sundsvall",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 62.3909019, 
+     "lng": 17.3071896
+   },
+      {
+     "name": "Umeå",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 63.8246,
+     "lng": 20.2713
+   },
+      {
+     "name": "Upplands Väsby",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.5171640, 
+     "lng": 17.9164192
+   },
+      {
+     "name": "Uppsala",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.8594126, 
+     "lng": 17.6411200
+   },
+      {
+     "name": "Västerås",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.6110992,  
+     "lng": 16.5463679
+   },
+      {
+     "name": "Växjö",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 56.8787183,  
+     "lng": 14.8094385
+   },
+      {
+     "name": "Örebro",
+	 "status": "Andligt råd",
+	 "bildat": "-",
+	 "medlemmar": "-",
+     "url": "http://bahai.se",
+     "lat": 59.2747378, 
+     "lng": 15.2149988
+   },
+  
+
+];
