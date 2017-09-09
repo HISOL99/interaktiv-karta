@@ -1,3 +1,5 @@
 2017-09-09:
-H�mta alla filerna till lokal h�rddisk. 
-�ppna index.html f�r att se kartan. 
+Hämta alla filerna till lokal hårddisk. 
+Öppna index.html för att se kartan. 
+I filen /maps/markers.json ligger informtion om varje ort. 
+Om du lägger til fält här, måste även filen /maps/leaf-demo.js ändras för raderna 33 och 34 med samma fältnamn. 
