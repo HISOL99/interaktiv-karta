@@ -1,11 +1,11 @@
 markers = [
 
    {
-     "name": "Stockholm",
+     "name": "Firande i Stockholm",
 	 "status": "Andligt råd",
 	 "bildat": "-",
 	 "medlemmar": "-", 
-     "url": "http://bahai.se/stockholm",
+     "url": "http://stockholm.bahai.se/",
      "lat":  59.3251172,
      "lng":  18.0710935
    },
